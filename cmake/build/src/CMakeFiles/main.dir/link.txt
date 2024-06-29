@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o -o main  -Wl,-rpath,/home/bee/dev/base/cmake/build/libs/somelib ../libs/somelib/libsomelib.so 

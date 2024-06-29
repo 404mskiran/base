@@ -1,0 +1,10 @@
+/home/bee/dev/base/cmake/build/CMakeFiles/edit_cache.dir
+/home/bee/dev/base/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/bee/dev/base/cmake/build/libs/CMakeFiles/edit_cache.dir
+/home/bee/dev/base/cmake/build/libs/CMakeFiles/rebuild_cache.dir
+/home/bee/dev/base/cmake/build/libs/somelib/CMakeFiles/somelib.dir
+/home/bee/dev/base/cmake/build/libs/somelib/CMakeFiles/edit_cache.dir
+/home/bee/dev/base/cmake/build/libs/somelib/CMakeFiles/rebuild_cache.dir
+/home/bee/dev/base/cmake/build/src/CMakeFiles/main.dir
+/home/bee/dev/base/cmake/build/src/CMakeFiles/edit_cache.dir
+/home/bee/dev/base/cmake/build/src/CMakeFiles/rebuild_cache.dir
