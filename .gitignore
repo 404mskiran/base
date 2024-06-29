@@ -12,4 +12,5 @@
 *.vsix
 
 #build folders
-.cmake/build
+# exclude everything except directory foo/bar
+cmake/build
